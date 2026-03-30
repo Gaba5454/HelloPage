@@ -35,25 +35,16 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/40669/c-plus-plus-logo" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/C++" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://icons8.com/icon/40670/c-programming" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/22813/docker" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/python" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/17842/linux" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ###
