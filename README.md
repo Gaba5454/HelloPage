@@ -37,8 +37,6 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/C++" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/40670/c-programming" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/python" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux" height="40" alt="react logo"  />
