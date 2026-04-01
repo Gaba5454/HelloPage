@@ -14,9 +14,6 @@
   <a href="https://vk.com/shvarebus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=VK&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"%20height="25"%20alt="VK%20logo"  />
   </a>
-   <a href="https://vk.com/shvarebus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VK&logo=VK&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"%20height="25"%20alt="VK%20logo"  />
-  </a>
 </div>
 
 
@@ -24,7 +21,7 @@
 
 ###
 
-<p align="left">Я студент 3 курса университета СибГУТИ, ежедневно варюсь в сфере связи и всё что с ней связано. Занимаюсь программированием SDR, на языках C/C++ и python.</p>
+<p align="left">Я студент 3 курса университета СибГУТИ, ежедневно в сфере связи и всё что с ней связано. Занимаюсь программированием SDR, на языках C/C++ и python.</p>
 
 
 ###
