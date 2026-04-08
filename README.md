@@ -14,6 +14,9 @@
   <a href="https://vk.com/shvarebus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=VK&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"%20height="25"%20alt="VK%20logo"  />
   </a>
+  <a href="https://max.ru/u/f9LHodD0cOLAFmsAUvkYaRNzcsLIbghTE2Pyx-RduUciBoWclIWv45j8-cE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MAX&logo=MAX&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"%20height="25"%20alt="MAX%20logo"  />
+  </a>
 </div>
 
 
