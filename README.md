@@ -1,12 +1,6 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://github.com/Gaba5454/HelloPage/blob/master/GIF.gif"  />
-</div>
-
 ###
 
-<h1 align="center">Привет👋 меня зовут Егор!!</h1>
+<h1 align="center">Привет. Меня зовут Егор</h1>
 
 ###
 
